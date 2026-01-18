@@ -77,5 +77,3 @@ simulateBtn.addEventListener("click", () => {
   submitBtn.dispatchEvent(new Event("click"));
   logEvent("Simulation complete ✅");
 });
-
-console.log(textBox);
